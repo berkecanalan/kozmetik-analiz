@@ -1,0 +1,10 @@
+# requirements.txt
+
+fastapi
+uvicorn[standard]
+python-multipart    # Dosya yüklemeleri (UploadFile) için gerekli
+easyocr
+pandas
+rapidfuzz
+opencv-python-headless  # Sunucu için 'headless' (arayüzsüz) versiyon
+Pillow
