@@ -1,0 +1,23 @@
+# --- Flutter & Dart ---
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+android/app/build
+linux/flutter/ephemeral
+macos/Flutter/ephemeral
+windows/flutter/ephemeral
+*.lock
+
+# --- Python (Backend) ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.DS_Store
+.idea/
+.vscode/
